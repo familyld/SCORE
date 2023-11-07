@@ -2,6 +2,10 @@
 
 A PyTorch implementation for our paper "False Correlation Reduction for Offline Reinforcement Learning" published on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Our code is built off of [TD3-BC](https://github.com/sfujim/TD3_BC) and [rlkit](https://github.com/rail-berkeley/rlkit).
 
+Link to our paper:
+- IEEE TPAMI: [https://ieeexplore.ieee.org/document/9518443](https://ieeexplore.ieee.org/document/9518443)
+- arXiv: [https://arxiv.org/abs/2110.12468](https://arxiv.org/abs/2110.12468)
+
 ## Prerequisites
 
 - PyTorch 1.4.0 with Python 3.7 
